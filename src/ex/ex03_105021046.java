@@ -18,6 +18,8 @@ public class ex03_105021046 {
 			System.out.println((char) (n + 32));
 		} else if (n >= 97 && n <= 122) {
 			System.out.println((char) (n - 32));
+		}else{
+			System.out.println("這不是英文字母");
 		}
 
 	}

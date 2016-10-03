@@ -18,6 +18,8 @@ public class ex02_105021046 {
 			System.out.println("大寫");
 		} else if (a >= 97 && a <= 122) {
 			System.out.println("小寫");
+		}else {
+			System.out.println("其他字元");
 		}
 
 	}
